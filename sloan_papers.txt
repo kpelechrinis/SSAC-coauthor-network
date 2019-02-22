@@ -1,0 +1,167 @@
+2010!The Price of Anarchy in Basketball!Brian Skinner
+2010!Novel Approach to Fantasy Basketball Management!
+2010!Improved NBA Adjusted +/- Using Regularization and Out-of-Sample Testing!Joseph Sill
+2010!Beyond Pythagorean Expectation: How Run Distributions Affect Win Percentage!Kerry Whisnant
+2011!Moral Hazard in Long­‐Term Guaranteed Contracts – Theory and Evidence from the NBA!Arup Sen,J. Bradford Rice
+2011!Workforce Analytics in Baseball Player Management!Michael Greene,Adam Hirsch
+2011!Optimizing an NBA Team’s Approach to Free Agency using a Multiple-Choice Knapsack Model!Sam Kirshner
+2011!New Player Evaluation Technique for Players of the NBA!Jeremias Engelmann
+2011!Forecasting Performance of International Players in the NBA!Kevin Salador
+2011!An Improved Adjusted Plus-Minus Statistic for NHL Players!Brian Macdonald
+2011!A New Look at Adjusted Plus/Minus for Basketball Analysis!Dapo Omidiran
+2011!The Effects of Altitude on Soccer Match Outcomes!Tyler Williams
+2011!Evaluating Basketball Player Performance via Statistical Network Modeling!James Piette,Lisa Pham,Sathyanarayan Anand
+2011!A Groovy Kind of Club: Examining the Impact of New Grooves Rules on the PGATOUR!Jason Acimovic,Douglas Fearing
+2011!Paired Pitching – How to Avoid an Arms Race!Greg Rubin!Greg Rubin
+2011!A Major League Baseball (MLB) Swing Quality Metric!Ross Gore,Cameron Snapp
+2011!Flipping Coins in the War Room: Skill and Chance in the NFL Draft!Cade Massey
+2011!Dodging the Draft: Analyzing the Competitive Impact of Baseball’s Amateur Draft!Stephen Argeris
+2011!Buying Tickets: Capturing the Dynamic Factors that Drive Consumer Purchase Decisions for Sporting Events!Wendy Moe,Peter Fader,Barry Kahn
+2011!Scoring Strategies for the Underdog – Using Risk as an Ally in Determining Optimal Sports Strategies!Brian Skinner
+2011!Allocation and Dynamic Efficiency in NBA Decision Making!Matt Goldman,Justin M. Rao
+2011!How Much Trouble is Early Foul Trouble?!Allan Maymin,Philip Maymin,Eugene Shen
+2011!DIGR: A Defense Independent Rating of NHL Goaltenders using Spatially Smoothed Save Percentage Maps!Michael Schuckers
+2012!Experience and Winning in the National Basketball Association!James Tarlow
+2012!NBA Chemistry: Positive and Negative Synergies in Basketball!Allan Maymin,Philip Maymin,Eugene Shen
+2012!Using Cumulative Win Probabilities to Predict NCAA Basketball Performance!Mark Bashuk
+2012!CourtVision: New Visual and Spatial Analytics for the NBA!Kirk Goldsberry
+2012!An Expected Goals Model for Evaluating NHL Teams and Players!Brian Macdonald
+2012!Predicting the Next Pitch!Gartheeban Ganeshapillai,John Guttag
+2012!Big 2’s and Big 3’s: Analyzing How a Team’s Best Players Complement Each Other!Robert Ayer
+2012!The Effect of Fan Passion and Official League Sponsorship on Brand Metrics: A Longitudinal Study of Official NFL Sponsors and ROO!Kirk Wakefield,Anne Rivers
+2012!Deconstructing the Rebound with Optical Tracking Data!Rajiv Maheswaran,YuHan Chang,Aaron Henehan,Samantha Danesis
+2012!Effort vs. Concentration: The Asymmetric Impact of Pressure on NBA Performance!Matt Goldman,Justin Rao
+2012!Baseball Enigma: The Optimal Batting Order!Clayton Graham
+2012!Optimal Design of the PGA Tour; Relegation and Promotion in Golf!Martin Puterman,Qingchen Wang
+2012!Sporting Event Revenue Management with Consumer Resale!Yao Cui,Izak Duenyas,Ozge Sahin
+2012!A method for the unbiased comparison of MLB and NBA career statistics across era!Alexander Petersen,Orion Penner
+2012!Biomarkers of Body Composition and Exercise Performance in Human Serum!Michael Lustgarten,Roger Fielding
+2012!To Tank or Not to Tank? Evidence from the NBA!Christopher Walters,Tyler Williams
+2012!Forecasting NBA Player Performance using a Weibull-Gamma Statistical Timing Model!Douglas Hwang
+2012!Referee Analytics: An Analysis of Penalty Rates by National Hockey League Officials!Michael Schuckersab,Lauren Brozowskia
+2012!Split personalities of NHL players: Using clustering,projections and regression to measure individual point shares!Timothy Chan,David Novati
+2012!Salary Allocation Strategies for Major League Soccer!Michael Fotopoulos,Andrew Opatkiewicz
+2012!Turning the Tide: Big Plays and Psychological Momentum in the NFL!Aaron Johnson,Alexander Stimpson,Torin Clark
+2013!Acceleration in the NBA: Towards an Algorithmic Taxonomy of Basketball Plays!Philip Maymin
+2013!Going for Three: Predicting the Likelihood of Field Goal Success with Logistic Regression!Torin Clark,Aaron Johnson,Alexander Stimpson
+2013!To Crash or Not To Crash: A quantitative look at the relationship between offensive rebounding and transition defense in the NBA!Jenna Wiens,Guha Balakrishnan,Joel Brooks,John Guttag
+2013!Total Hockey Rating (THoR): A comprehensive statistical rating of National Hockey League forwards and defensemen based upon all on-ice events!Michael Schuckers,James Curro
+2013!Live by the Three,Die by the Three? The Price of Risk in the NBA!Matthew Goldman,Justin Rao
+2013!The value of flexibility in baseball roster construction!Timothy Chan,Douglas Fearing
+2013!The hidden foundation of field vision in English Premier League(EPL) soccer players!Geir Jordet,Jonathan Bloomfield,Johan Heijmerikx
+2013!The Dwight Effect: A New Ensemble of Interior Defense Analytics for the NBA!Kirk Goldsberry,Eric Weiss
+2013!A System for Measuring the Neural Correlates of Baseball Pitch Recognition and Its Potential Use in Scouting and Player Development!Jordan Muraskin,Jason Sherwin,Paul Sajda
+2013!(POSTER) Does a ‘coattail effect’ influence the valuation of players in the Major League Baseball draft?!Kevin Whitaker
+2013!“Sweet-Spot”: Using Spatiotemporal Data to Discover and Predict Shots in Tennis!Xinyu Wei,Patrick Lucey,Stuart Morgan,Sridha Sridharan
+2013!(POSTER) Using Zone Entry Data To Separate Offensive,Neutral,And Defensive Zone Performance!Eric Tulsky,Geoffrey Detweiler,Robert Spencer,Corey Sznajder
+2014!POINTWISE: Predicting Points and Valuing Decisions in Real Time with NBA Optical Tracking Data!Dan Cervone,Alexander DAmour,Luke Bornn,Kirk Goldsberry
+2014!The Hot Hand: A New Approach to an Old “Fallacy”!Andrew Bocskocsky,John Ezekowitz,Carolyn Stein
+2014!The Three Dimensions of Rebounding!Rajiv Maheswaran,YuHan Chang,Jeff Su,Sheldon Kwok,Tal Levy,Adam Wexler,Noel Hollingsworth
+2014!Automatically Recognizing On-Ball Screens!rmand McQueen,Jenna Wiens,John Guttag
+2014!Win at Home and Draw Away: Automatic Formation Analysis Highlighting the Differences in Home and Away Team Behaviors!Alina Bialkowski,Patrick Lucey,Peter Carr,Yisong Yue,Iain Matthews
+2014!What Does it Take to Call a Strike? Three Biases in Umpire Decision Making!Etan Green,David Daniels
+2014!Can’t Buy Much Love: Why Money is Not Baseball’s Most Valuable Currency!Martin Kleinbard
+2014!A Data-driven Method for In-game Decision Making in MLB!Gartheeban Ganeshapillai,John Guttag
+2014!An Army of Super Relievers: Building the Optimal Pitching Staff!Hamilton Marx
+2014!“How to Get an Open Shot”: Analyzing Team Movement in Basketball using Tracking Data!Patrick Lucey,Alina Bialkowski,Peter Carr,Yisong Yue,Iain Matthews
+2014!Knowing what we don’t know in NCAA Football ratings: Understanding and using structured uncertainty!Daniel Tarlow,Thore Graepel,Tom Minka
+2014!Quantifying Shot Quality in the NBA!YuHan Chang,Rajiv Maheswaran,Jeff Su,Sheldon Kwok,Tal Levy,Adam Wexler,Kevin Squire
+2014!Refs Revealed: Many NBA Referees are “More Equal” (and Less Equal) Than Others!John Ball
+2014!Spatial Statistics to Evaluate Player Contribution in Ultimate!Jeremy Weiss,Sean Childers
+2014!The Effects of Atmospheric Conditions on Pitchers!Rodney Paul,Matt Filippi,Greg Ackerman,Andrew Weinbach,Jeff Gurney
+2014!Tilted ice: How certain National Hockey League teams are manipulating the league’s point system!Michael Lopez
+2015!Counterpoints: Advanced Defensive Metrics for NBA Basketball!Alexander Franks,Andrew Miller,Luke Bornn,Kirk Goldsberry
+2015!Graphical Model for Basketball Match Simulation!Min-hwan Oh,Suraj Keshri,Garud Iyengar
+2015!“Quality vs. Quantity”: Improved Shot Prediction in Soccer using Strategic Features from Spatiotemporal Data!Patrick Lucey,Alina Bialkowski,Mathew Monfort,Peter Carr,Iain Matthews
+2015!Alleviating Competitive Imbalance in NFL Schedules: An Integer-Programming Approach!Murat Kurt,Mark Karwan,Niraj Kumar Pandey,Kyle Cunningham
+2015!Diamonds on the Line: Profits through Investment Gaming!Clayton Graham
+2015!Evaluating the Effectiveness of Dynamic Pricing Strategies on MLB Single-Game Ticket Revenue!Joseph Xu,Peter Fader,Senthil Veeraraghavan
+2015!Assessing the Offensive Productivity of NHL Players Using In-game Win Probabilities!Stephen Pettigrew
+2015!Accentuated Loss Aversion in PGA Tournaments: Does Company Matter?!D. Dhayanithy,V. Singh
+2015!An Adversarial Risk Analysis Framework for Football Game Planning!
+2015!An Analysis of the Basketball Endgame: When to Foul When Trailing and Leading!Franklin Kenter
+2015!Basequal: A Qualitative Analysis of Team Chemistry through the Lens of Charismatic Leadership!
+2015!MLB Jock Tax Index: Quantifying the Monetary Value in After-Tax Dollars!Alan Pogroszewski
+2015!Move or Die: How Ball Movement Creates Open Shots in the NBA!Alexander DAmour,Daniel Cervone,Luke Bornn,Kirk Goldsberry
+2015!Predicting Premier League Soccer Using a Sentiment Analysis of Twitter!Rob Schumaker,Tom Jarmoszko,Chester Labedz
+2015!Predictions Based on Clustering Heterogeneous Functions via Shape and Player-Specific Covariates!Garritt Page,Fernando Quintana
+2015!Referee Analytics: Bias in Major College Football Officiating!Rhett Brymer,Tim Holcomb,Ryan Rodenberg
+2015!A Self-Adapting Intelligent Optimized Analytical Model for Team Selection Using Player Performance Utility in Cricket!Bharathan S,Sundarraj RP,Abhijeet,Ramakrishnan S
+2015!Super Who? Salary Arbitration,Service Time,and Performance Incentives in Major League Baseball!
+2016!The Pressing Game: Optimal Defensive Disruption in Soccer!Iavor Bojinov,Luke Bornn
+2016!“The Thin Edge of the Wedge”: Accurately Predicting Shot Outcomes in Tennis using Style and Context Priors!Xinyu Wei,Patrick Lucey,Stuart Morgan,Machar Reid,Sridha Sridharan
+2016!Using Digital Signals To Measure Audience Brand Engagement At Major Sports Events: The 2015 MLB Season!Peter Ibarra,Peter Lenz
+2016!Sponsorship Revenue Forecasting for Sport Organizations: A Survival Analysis Approach!Jonathan Jensen
+2016!Recognizing and Analyzing Ball Screen Defense in the NBA!Avery McIntyre,Joel Brooks,John Guttag,Jenna Wiens
+2016!Accounting for Complementary Skill Sets When Evaluating NBA Players’ Values to a Specific Team!Joseph Kuehn
+2016!Arsenal/Zone Rating: A PitchF/X based pitcher projection system!Pei Zhe Shu
+2016!The Hot-Hand Fallacy: Cognitive Mistakes or Equilibrium Adjustments? Evidence from Major League Baseball!Brett Green,Jeffrey Zwiebel
+2016!Finding the Open Receiver: A Quantitative Geospatial Analysis of Quarterback Decision-Making!Jeremy Hochstedler
+2016!Hot heads,cool heads,and tacticians: Measuring the mental game in tennis!Stephanie Kovalchik,Martin Ingram
+2016!Esports Analytics Through Encounter Detection!Matthias Schubert,Anders Drachen,Tobias Mahlmann
+2016!Draft by Numbers: Using Data and Analytics to Improve National Hockey League (NHL) Player Selection!Michael E. Schuckers
+2016!Analyzing In-Game Movements of Soccer Players on Scale!Laszlo Gyarmati,Mohamed Hefeeda
+2016!Competition From Sports Hurts TV Ratings: How to Shift League Calendars to Optimize Viewership!Jim Pagels
+2016!The Competitive Effects of PEDs: MLB in the Post-testing Era!Scott Brave
+2016!Is the Price Right? An Analysis of the National Football League Ticket Market Relative to the Great Recession!Ben Singer
+2016!Classifying NBA Offensive Plays Using Neural Networks!Kuan-Chieh Wang,Richard Zemel
+2016!The Van Exel Effect: Adjusting for Scorekeeper Bias in NBA Box Scores!Matthew van Bommel,Luke Bornn
+2016!Preventing in-game injuries for NBA players!Hisham Talukder,Thomas Vincent,Geoff Foster,Camden Hu,Juan Huerta,Aparna Kumar,Mark Malazarte,Diego Saldana,Shawn Simpson
+2016!NBA Court Realty!Dan Cervone,Luke Bornn,Kirk Goldsberry
+2016!Tracking Pitcher Performance with Instantaneous Component ERA and Moving Averages!John Salmon,Willie Harrison
+2016!zWins,an Alternative Calculation of Wins Above Replacement in Baseball!Walter King
+2016!Testing Pitch Recognition to Improve Talent Identification and Player Development!Peter Fadde,Sean Muller
+2017!From Sports to Science: Using Basketball Analytics to Broaden the Appeal of Math and Science Among Youth!John Drazan,Amy Loya,Benjamin Horne,Ron Eglash
+2017!Why do marketing partnerships end? Evidence from global sport sponsorships!Jonathan Jensen,T. Bettina Cornwell
+2017!Possession Sketches: Mapping NBA Strategies!Andrew Miller,Luke Bornn
+2017!“BodyShots”: Analyzing Shooting Styles in the NBA using 3D Body-Pose Information!Panna Felsen,Patrick Lucey
+2017!Mixed Membership Martial Arts: Data-Driven Analysis of Winning Martial Arts Styles!Sean Hackett,John Storey
+2017!Data-Driven Ghosting using Deep Imitation Learning!Hoang Le,Peter Carr,Yisong Yue,Patrick Lucey
+2017!A switching dynamic generalized linear model to detect abnormal performances in Major League Baseball!Chris Glynn,Surya Tokdar
+2017!Bullpen Strategies for Major League Baseball!John Salmon,Willie Harrison
+2017!Ranking the Skills of Golfers on the PGA TOUR using Gradient Boosting Machines and Network Analysis!Adam Levin
+2017!Physics-Based Modeling of Pass Probabilities in Soccer!William Spearman,Austin Basye,Greg Dick,Ryan Hotovy,Paul Pop
+2017!Flow Motifs in Soccer: What can passing behavior tell us?!Joris Bekkers,Shaunak Dabadghao
+2017!Judging the judges: Evaluating the performance of international gymnastics judges!Hugues Mercier,Christopher Klahn
+2017!Bump,Set,Spike: Using Analytics to Rate Volleyball Teams and Players!Corley Bagley,Brett Ware
+2017!Apples-to-Apples: Clustering and Ranking NHL Players Using Location Information and Scoring Impact!Oliver Schulte,Zeyu Zhao,Mehrsan Javan,Philippe Desaulniers
+2017!Mining Muscle Use Data for Fatigue Reduction in IndyCar!Yasuyuki Kataoka,Douglas Junkins
+2018!(batter|pitcher)2vec: Statistic-Free Talent Modeling With Neural Player Embeddings!Michael Alcorn
+2018!Eye on the ball: the relationship between sensorimotor abilities and on-field performance in professional baseball!Kyle Burris,Greg Appelbaum
+2018!Bhostgusters: Realtime Interactive Play Sketching with Synthesized NBA Defenses!Thomas Seidl,Aditya Cherukumudi,Andrew Hartnett,Peter Carr,Patrick Lucey
+2018!High-resolution shot capture reveals systematic biases and an improved method for shooter evaluation!Rachel Marty
+2018!Volume and Intensity are Important Training Related Factors in Injury Incidence in American Football Athletes!Patrick Ward,Michael Tankovich,J Sam Ramsden,Barry Drust,Luke Bornn
+2018!Wide Open Spaces: A statistical technique for measuring space creation in professional soccer!Javier Fernandez,Luke Bornn
+2018!An Open-Sourced Optical Tracking and Advanced eSports Analytics Platform for League of Legends!Philip Maymin
+2018!How to Play Strategically in Fantasy Sports (and Win)!Martin Haugh,Raghav Singal
+2018!Using Computer Vision and Machine Learning to Automatically Classify NFL Game Film and Develop a Player Tracking System!Omar Ajmeri,Ali Shah
+2018!The Problem with Win Probability!Sujoy Ganguly,Nathan Frank
+2018!The Advantage of Doubling: A Deep Reinforcement Learning Approach to Studying the Double Team in the NBA!Jiaxuan Wang,Ian Fox,Jonathan Skaza,Nick Linck,Satinder Singh,Jenna Wiens
+2018!Replaying the NBA!Nathan Sandholtz,Luke Bornn
+2018!Quantifying the Value of Transitions in Soccer via Spatiotemporal Trajectory Clustering!Jennifer Hobbs,Paul Power,Long Sha,Hector Ruiz,Patrick Lucey
+2018!Mythbusting Set-Pieces in Soccer!Paul Power,Jennifer Hobbs,Hector Ruiz,Xinyu Wei,Patrick Lucey
+2018!Learning an Egocentric Basketball Ghosting Model using Wearable Cameras and Deep Convolutional Networks!Gedas Bertasius,Aaron Chan,Jianbo Shi
+2018!Going Inside the Inner Game: Predicting the Emotions of Professional Tennis Players from Match Broadcasts!Stephanie Kovalchik,Machar Reid
+2018!Drafting Errors and Decision Making Theory in the NBA Draft!Daniel Sailofsky
+2018!Deep Learning of Player Trajectory Representations for Team Activity Analysis!Nazanin Mehrasa,Yatao Zhong,Frederick Tung,Luke Bornn,Greg Mori
+2018!Beyond Expected Goals!William Spearman
+2018!An enhanced metric of injury risk utilizing Artificial Intelligence!Calham Dower,Abdul Rafehi,Jason Weber,Razali Mohamad
+2019!Using Deep Learning to Understand Patterns of Player Movement in the NBA!Akhil Nistala,John Guttag
+2019!DeepQB: Deep Learning with Player Tracking to Quantify Quarterback Decision-Making & Performance!Brian Burke
+2019!Decomposing the Immeasurable Sport: A deep learning expected possession value framework for soccer!Javier Fernandez,Luke Bornn,Dan Cervone
+2019!Winning Isn’t Everything – A contextual analysis of hockey face-offs!Nick Czuzoj-Shulman,David Yu,Christopher Boucher,Luke Bornn,Mehrsan Javan
+2019!Predicting Major League Baseball Strikeout Rates from Differences in Velocity and Movement Among Player Pitch Types!Eric Martin
+2019!Training Schedule Confounds the Relationship between Acute:Chronic Workload Ratio and Injury!Luke Bornn,Patrick Ward,Darcy Norman
+2019!How	Much Do Coaches Matter?!Christopher Berry,Anthony Fowler
+2019!Analytics for the Front Office: Valuing Protections on NBA Draft Picks!Benjamin Foster,Michael Binns
+2019!The Horizon of Sports is Digital: Using Fantasy Sports,e-Sports and Electronic Gambling to Find Next Generation of Ticket Buyers!Peter Lenz,Matthew Sabban,Peter Ibarra
+2019!Leveraging Batter-Pitcher Matchups for Optimal Game Strategy!Willie Harrison,John Salmon
+2019!New Evidence in the Study of Shirking in Major League Baseball!Richard Paulsen
+2019!From Markov models to Poisson point processes: Modeling movement in the NBA!Jacob Mortensen,Luke Bornn
+2019!Playing Fast Not Loose: Evaluating team-level pace of play in ice hockey using spatio-temporal possession data!David Yu,Christopher Boucher,Luke Bornn,Mehrsan Javan
+2019!The Economic Impact of NBA Superstars: Evidence from Missed Games using Ticket Microdata from a Secondary Marketplace!Scott Kaplan,Vaibhav Ramamoorthy,heenar Gupte,Amit Sagar,Deepak Premkumar,Joshua Wilbur,David Zilberman
+2019!Data-driven lowlight and highlight reel creation based on explainable temporal game models!Evin Keane,Philippe Desaulniers,Luke Bornn,Mehrsan Javan
+2019!A Data Driven Goalkeeper Evaluation Framework!Derrick Yam
+2019!The Evolution of Curling Analytics!Kevin Palmer,Gerry Geurts,Jason Gunnlaugson
+2019!Chuckers: Measuring Lineup Shot Distribution Optimality Using Spatial Allocative Efficiency Models!Nathan Sandholtz,Jacob Mortensen,Luke Bornn
+2019!Choke or Shine? Quantifying Soccer Players’ Abilities to Perform Under Mental Pressure!Lotte Bransen,Pieter Robberechts,Jan Van Haaren,Jesse Davis
